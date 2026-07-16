@@ -10,8 +10,3 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
-
----
-## 📈 ACTIVITY
-![](https://github-readme-activity-graph.vercel.app/graph?username=bigyvc&theme=github-compact)
-
