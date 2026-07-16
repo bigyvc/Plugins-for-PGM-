@@ -12,9 +12,8 @@
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
 
 ---
-
 ## 📈 ACTIVITY
-![](https://github-readme-activity-graph.vercel.app/graph?username=bigfish&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=bigyvc&theme=github-compact)
 
 ---
 ## ☕ RUNTIME
@@ -22,5 +21,3 @@
 ![](https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge)
 ![](https://img.shields.io/badge/Sleep-404_Not_Found-red?style=for-the-badge)
 ---
-
-> **bigfish.**
