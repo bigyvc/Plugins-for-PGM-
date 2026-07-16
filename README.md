@@ -60,21 +60,21 @@ Mission Accepted.
 
 ## 📊 LIVE DASHBOARD
 
-![](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api?username=bigyvc&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigyvc&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 ---
 
 ## 📈 ACTIVITY
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub用户名&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=bigyvc&theme=github-compact)
 
 ---
 
 ## 🏆 ACHIEVEMENTS
 
-![](https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=matrix&no-frame=true&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=bigyvc&theme=matrix&no-frame=true&row=1&column=6)
 
 ---
 
@@ -86,7 +86,7 @@ Mission Accepted.
 
 ## ☕ RUNTIME
 
-![](https://komarev.com/ghpvc/?username=你的GitHub用户名&style=for-the-badge&color=00ff66)
+![](https://komarev.com/ghpvc/?username=bigyvc&style=for-the-badge&color=00ff66)
 
 ![](https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge)
 
