@@ -15,9 +15,3 @@
 ## 📈 ACTIVITY
 ![](https://github-readme-activity-graph.vercel.app/graph?username=bigyvc&theme=github-compact)
 
----
-## ☕ RUNTIME
-![](https://komarev.com/ghpvc/?username=bigfish&style=for-the-badge&color=00ff66)
-![](https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge)
-![](https://img.shields.io/badge/Sleep-404_Not_Found-red?style=for-the-badge)
----
